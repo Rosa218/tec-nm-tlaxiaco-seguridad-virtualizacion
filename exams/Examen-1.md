@@ -1,6 +1,6 @@
 # Examen 1 - Seguridad de la Información y Gestión de Sistemas de Información
 
-Nombre:
+Nombre: Rosa Salazar Doroteo
 
 **Instrucciones**: Selecciona la respuesta correcta para cada una de las siguientes preguntas.
 
